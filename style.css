@@ -634,3 +634,34 @@ body {
     .social-links { justify-content: center; }
     .footer-bottom { flex-direction: column; gap: 20px; }
 }
+
+@media (min-width: 1440px) {
+    .navbar {
+        padding: 2rem 6rem; 
+    }
+
+    .hero-title {
+        font-size: 5rem; 
+    }
+
+    .cta-group {
+        gap: 30px; 
+    }
+
+    .stats-container {
+        gap: 100px;
+    }
+
+    .about-container {
+        gap: 100px; 
+    }
+
+    .features-row {
+        gap: 40px;
+    }
+
+    .events-grid {
+        gap: 40px;
+        padding: 10px 0 50px 0;
+    }
+} 
