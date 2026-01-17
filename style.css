@@ -410,3 +410,32 @@ body {
         font-size: 0.8rem;
     }
 }
+@media (min-width: 1440px) {
+    .navbar {
+        padding: 1.5rem 6rem; 
+    }
+
+    .hero-content {
+        max-width: 1200px; 
+    }
+
+    .hero-title {
+        font-size: 5rem; 
+    }
+
+    .about-container {
+        gap: 120px;
+    }
+
+    .features-row {
+        gap: 50px; 
+    }
+
+    .stats-container {
+        gap: 120px; 
+    }
+
+    .footer-top {
+        gap: 60px; 
+    }
+}
