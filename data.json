@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Alternative Showcase",
+    "date": "September 12, 2026",
+    "location": "Red Rocks, Colorado",
+    "price": "49",
+    "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "title": "Electronic Nights",
+    "date": "July 20, 2026",
+    "location": "Brooklyn, NY",
+    "price": "59",
+    "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "title": "Indie Rock Gala",
+    "date": "August 05, 2026",
+    "location": "Austin, Texas",
+    "price": "75",
+    "image": "https://images.unsplash.com/photo-1598387993441-a364f854c3e1?q=80&w=2000&auto=format&fit=crop"
+  },
+  {
+    "title": "Jazz in the Park",
+    "date": "October 10, 2026",
+    "location": "Chicago, IL",
+    "price": "35",
+    "image": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "title": "Techno Bunker",
+    "date": "November 02, 2026",
+    "location": "Berlin, Germany",
+    "price": "60",
+    "image": "https://images.unsplash.com/photo-1571751239008-50cad6cb9265?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]
